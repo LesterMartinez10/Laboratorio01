@@ -1,0 +1,14 @@
+nombre del producto:pan
+Cantidad:4
+Precio:50
+
+
+
+
+nombre del producto:sal
+Cantidad:15
+Precio:2.00
+
+
+
+

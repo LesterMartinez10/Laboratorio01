@@ -1,0 +1,18 @@
+Correlativo: Lester Orlando Martinez Hernandez
+cliente: 01
+N.I.T: 789456
+fecha: 10/05/2003
+Producto:Huevos
+Precio de unidad:62.5
+Total:62.5
+
+
+Correlativo: Marco Fernando Basilio
+cliente: 02
+N.I.T: 123456
+fecha: 25/08/2010
+Producto:azucar
+Precio de unidad:540
+Total:540
+
+
